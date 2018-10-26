@@ -9,7 +9,7 @@ There are possible improvements like dealing with really long calculations, ther
 
 ## Install and run the application
 
-$ git checkout https://github.com/fabiotisci/equal-experts.git
+$ git clone https://github.com/fabiotisci/equal-experts.git
 
 $ cd equal-experts
 
